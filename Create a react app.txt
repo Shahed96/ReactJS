@@ -1,0 +1,4 @@
+Terminal --> new terminal -->
+
+write:
+npx creat-react-app hello-world
